@@ -1,0 +1,37 @@
+body{
+    background-image: url(tp1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px 700px;
+}
+form{
+    border: solid 3px blue;
+    width: 500px;
+    background-color: aliceblue;
+    margin-left: 200px;
+}
+h1{
+    text-align: center;
+    column-rule-color: bisque;
+    font-size: 50px;
+}
+label{
+    font-size: 25px;
+    color: aqua;
+    font-weight: bold;
+}
+input{
+    width: 50px;
+    height: 40px;
+}
+button{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+    color: brown;
+    font-size: 21px;
+    border-radius: 100px;
+}
+p{
+    color: aquamarine;
+    font-size:30px ;
+}

@@ -1,0 +1,38 @@
+
+.outbox{
+    border: solid 1px;
+    height: 500px;
+    background-image: url(dp3.jpg);
+    background-repeat: no-repeat;
+    background-size:1500px 500px ;
+
+    }
+    #nay{
+        border: solid 1px white;
+        height: 50px;
+        line-height: 50px;
+    }
+    #in{
+        color: aqua;
+        font-size: 26px;
+        text-decoration: ;
+        padding-right: 20px;
+        font-weight: bold;
+    }
+    .out{
+        border: solid 1px;
+    }
+    #cafe{
+        color: blue;
+        font-size: 50px;
+        text-align: center;
+
+    padding-top: 100px;
+    text-shadow: 1px 2px 3px white;
+    }
+    #menu{
+        border: solid 1px;
+        height: 200px;
+    }
+    
+    
